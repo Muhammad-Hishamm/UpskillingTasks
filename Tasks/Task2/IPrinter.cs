@@ -8,6 +8,8 @@ namespace Task2
 {
     internal interface IPrinter
     {
-        void Print(string documentName);
+        //void Print(string documentName);
+        void PrintDocument(string document);
+
     }
 }

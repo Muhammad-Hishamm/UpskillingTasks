@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace Task2
 {
-    internal class SimplPrinter:IPrinter
-    {
-        public void Print(string documentName) {
+    //internal class SimplPrinter:IPrinter
+    //{
+    //    public void Print(string documentName) {
 
-            Console.WriteLine($"Printing Document: {documentName}");
-        }
-    }
+    //        Console.WriteLine($"Printing Document: {documentName}");
+    //    }
+    //}
 }
