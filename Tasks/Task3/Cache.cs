@@ -77,8 +77,6 @@ namespace Task3
                 }
             }
             size--;
-        }
-
-       
+        }       
     }
 }

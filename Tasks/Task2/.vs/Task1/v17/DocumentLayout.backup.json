@@ -3,10 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\Tasks\\Task2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9E0F5D5B-5CA9-4819-817C-1C89E195EB19}|..\\Task3\\Task3.csproj|c:\\users\\muham\\onedrive\\desktop\\upskillingtasks\\tasks\\task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E81E740D-FD6E-4477-8139-5788D80DC5B1}|..\\Task7\\Task7.csproj|c:\\users\\muham\\onedrive\\desktop\\upskillingtasks\\tasks\\task7\\collectionpagination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81E740D-FD6E-4477-8139-5788D80DC5B1}|..\\Task7\\Task7.csproj|c:\\users\\muham\\onedrive\\desktop\\upskillingtasks\\tasks\\task7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81E740D-FD6E-4477-8139-5788D80DC5B1}|..\\Task7\\Task7.csproj|c:\\users\\muham\\onedrive\\desktop\\upskillingtasks\\tasks\\task7\\stringextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9E0F5D5B-5CA9-4819-817C-1C89E195EB19}|..\\Task3\\Task3.csproj|c:\\users\\muham\\onedrive\\desktop\\upskillingtasks\\tasks\\task3\\cache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81E740D-FD6E-4477-8139-5788D80DC5B1}|..\\Task7\\Task7.csproj|c:\\users\\muham\\onedrive\\desktop\\upskillingtasks\\tasks\\task7\\datetimeextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81E740D-FD6E-4477-8139-5788D80DC5B1}|..\\Task7\\Task7.csproj|c:\\users\\muham\\onedrive\\desktop\\upskillingtasks\\tasks\\task7\\litstextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81E740D-FD6E-4477-8139-5788D80DC5B1}|..\\Task7\\Task7.csproj|c:\\users\\muham\\onedrive\\desktop\\upskillingtasks\\tasks\\task7\\task7.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F07C78CD-5909-B56A-A5D7-0113F5D67902}|Task2.csproj|c:\\users\\muham\\onedrive\\desktop\\upskillingtasks\\tasks\\task2\\task2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F07C78CD-5909-B56A-A5D7-0113F5D67902}|Task2.csproj|solutionrelative:task2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0F5D5B-5CA9-4819-817C-1C89E195EB19}|..\\Task3\\Task3.csproj|c:\\users\\muham\\onedrive\\desktop\\upskillingtasks\\tasks\\task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F07C78CD-5909-B56A-A5D7-0113F5D67902}|Task2.csproj|c:\\users\\muham\\onedrive\\desktop\\upskillingtasks\\tasks\\task2\\smartcopier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -65,10 +87,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F07C78CD-5909-B56A-A5D7-0113F5D67902}|Task2.csproj|c:\\users\\muham\\onedrive\\desktop\\upskillingtasks\\tasks\\task2\\idevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F07C78CD-5909-B56A-A5D7-0113F5D67902}|Task2.csproj|solutionrelative:idevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F07C78CD-5909-B56A-A5D7-0113F5D67902}|Task2.csproj|c:\\users\\muham\\onedrive\\desktop\\upskillingtasks\\tasks\\task2\\task2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{F07C78CD-5909-B56A-A5D7-0113F5D67902}|Task2.csproj|solutionrelative:task2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,50 +96,111 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LitstExtension.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\Tasks\\Task7\\LitstExtension.cs",
+              "RelativeDocumentMoniker": "..\\Task7\\LitstExtension.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\Tasks\\Task7\\LitstExtension.cs",
+              "RelativeToolTip": "..\\Task7\\LitstExtension.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T21:15:51.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DateTimeExtension.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\Tasks\\Task7\\DateTimeExtension.cs",
+              "RelativeDocumentMoniker": "..\\Task7\\DateTimeExtension.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\Tasks\\Task7\\DateTimeExtension.cs",
+              "RelativeToolTip": "..\\Task7\\DateTimeExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T21:12:18.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Task7.csproj",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\Tasks\\Task7\\Task7.csproj",
+              "RelativeDocumentMoniker": "..\\Task7\\Task7.csproj",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\Tasks\\Task7\\Task7.csproj",
+              "RelativeToolTip": "..\\Task7\\Task7.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-23T21:11:26.572Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\Tasks\\Task7\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Task7\\Program.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\Tasks\\Task7\\Program.cs",
+              "RelativeToolTip": "..\\Task7\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T21:11:13.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CollectionPagination.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\Tasks\\Task7\\CollectionPagination.cs",
+              "RelativeDocumentMoniker": "..\\Task7\\CollectionPagination.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\Tasks\\Task7\\CollectionPagination.cs*",
+              "RelativeToolTip": "..\\Task7\\CollectionPagination.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T16:50:27.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StringExtension.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\Tasks\\Task7\\StringExtension.cs",
+              "RelativeDocumentMoniker": "..\\Task7\\StringExtension.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\Tasks\\Task7\\StringExtension.cs",
+              "RelativeToolTip": "..\\Task7\\StringExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T21:43:26.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Cache.cs",
               "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\Tasks\\Task3\\Cache.cs",
               "RelativeDocumentMoniker": "..\\Task3\\Cache.cs",
               "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\Tasks\\Task3\\Cache.cs",
               "RelativeToolTip": "..\\Task3\\Cache.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAowE4AAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAqwDIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-20T20:14:44.918Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ArrayUtils.cs",
-              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\Tasks\\Task3\\ArrayUtils.cs",
-              "RelativeDocumentMoniker": "..\\Task3\\ArrayUtils.cs",
-              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\Tasks\\Task3\\ArrayUtils.cs",
-              "RelativeToolTip": "..\\Task3\\ArrayUtils.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCIAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-20T19:20:17.65Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\Tasks\\Task3\\Program.cs",
               "RelativeDocumentMoniker": "..\\Task3\\Program.cs",
-              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\Tasks\\Task3\\Program.cs*",
-              "RelativeToolTip": "..\\Task3\\Program.cs*",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwB8AAAAOAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\Tasks\\Task3\\Program.cs",
+              "RelativeToolTip": "..\\Task3\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwB8AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-20T19:16:00.726Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-20T19:16:00.726Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "SmartCopier.cs",
               "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\Tasks\\Task2\\SmartCopier.cs",
               "RelativeDocumentMoniker": "SmartCopier.cs",
@@ -129,12 +208,11 @@
               "RelativeToolTip": "SmartCopier.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAzwCEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-20T18:00:25.649Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-20T18:00:25.649Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "SmartDevice.cs",
               "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\Tasks\\Task2\\SmartDevice.cs",
               "RelativeDocumentMoniker": "SmartDevice.cs",
@@ -142,12 +220,11 @@
               "RelativeToolTip": "SmartDevice.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T18:28:08.945Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-05T18:28:08.945Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "OfficeMachine.cs",
               "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\Tasks\\Task2\\OfficeMachine.cs",
               "RelativeDocumentMoniker": "OfficeMachine.cs",
@@ -155,155 +232,11 @@
               "RelativeToolTip": "OfficeMachine.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-20T17:32:14.682Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IPrinter.cs",
-              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\Tasks\\Task2\\IPrinter.cs",
-              "RelativeDocumentMoniker": "IPrinter.cs",
-              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\Tasks\\Task2\\IPrinter.cs",
-              "RelativeToolTip": "IPrinter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T17:30:55.219Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-20T17:32:14.682Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\Tasks\\Task2\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\Tasks\\Task2\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAgwC0AAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T16:17:04.742Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Task3",
-              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\Tasks\\Task3\\Task3.csproj",
-              "RelativeDocumentMoniker": "..\\Task3\\Task3.csproj",
-              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\Tasks\\Task3\\Task3.csproj",
-              "RelativeToolTip": "..\\Task3\\Task3.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-20T19:16:10.816Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "IFax.cs",
-              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\Tasks\\Task2\\IFax.cs",
-              "RelativeDocumentMoniker": "IFax.cs",
-              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\Tasks\\Task2\\IFax.cs",
-              "RelativeToolTip": "IFax.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T18:26:57.081Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "SecurePrinter.cs",
-              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\Tasks\\Task2\\SecurePrinter.cs",
-              "RelativeDocumentMoniker": "SecurePrinter.cs",
-              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\Tasks\\Task2\\SecurePrinter.cs",
-              "RelativeToolTip": "SecurePrinter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-20T17:21:55.176Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IMaintenance.cs",
-              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\Tasks\\Task2\\IMaintenance.cs",
-              "RelativeDocumentMoniker": "IMaintenance.cs",
-              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\Tasks\\Task2\\IMaintenance.cs",
-              "RelativeToolTip": "IMaintenance.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-06T00:46:38.824Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "IScanner.cs",
-              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\Tasks\\Task2\\IScanner.cs",
-              "RelativeDocumentMoniker": "IScanner.cs",
-              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\Tasks\\Task2\\IScanner.cs",
-              "RelativeToolTip": "IScanner.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T18:26:19.184Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ServiceMachine.cs",
-              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\Tasks\\Task2\\ServiceMachine.cs",
-              "RelativeDocumentMoniker": "ServiceMachine.cs",
-              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\Tasks\\Task2\\ServiceMachine.cs",
-              "RelativeToolTip": "ServiceMachine.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-06T00:47:39.985Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Copier.cs",
-              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\Tasks\\Task2\\Copier.cs",
-              "RelativeDocumentMoniker": "Copier.cs",
-              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\Tasks\\Task2\\Copier.cs",
-              "RelativeToolTip": "Copier.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-20T17:37:40.496Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "SimplPrinter.cs",
-              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\Tasks\\Task2\\SimplPrinter.cs",
-              "RelativeDocumentMoniker": "SimplPrinter.cs",
-              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\Tasks\\Task2\\SimplPrinter.cs",
-              "RelativeToolTip": "SimplPrinter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T17:31:33.321Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "IDevice.cs",
-              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\Tasks\\Task2\\IDevice.cs",
-              "RelativeDocumentMoniker": "IDevice.cs",
-              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\Tasks\\Task2\\IDevice.cs",
-              "RelativeToolTip": "IDevice.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-06T00:44:49.781Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
               "Title": "Task2.csproj",
               "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\Tasks\\Task2\\Task2.csproj",
               "RelativeDocumentMoniker": "Task2.csproj",
@@ -311,8 +244,151 @@
               "RelativeToolTip": "Task2.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-19T13:39:33.564Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-19T13:39:33.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ArrayUtils.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\Tasks\\Task3\\ArrayUtils.cs",
+              "RelativeDocumentMoniker": "..\\Task3\\ArrayUtils.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\Tasks\\Task3\\ArrayUtils.cs",
+              "RelativeToolTip": "..\\Task3\\ArrayUtils.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T19:20:17.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IPrinter.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\Tasks\\Task2\\IPrinter.cs",
+              "RelativeDocumentMoniker": "IPrinter.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\Tasks\\Task2\\IPrinter.cs",
+              "RelativeToolTip": "IPrinter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T17:30:55.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\Tasks\\Task2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\Tasks\\Task2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwC0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T16:17:04.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Task3.csproj",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\Tasks\\Task3\\Task3.csproj",
+              "RelativeDocumentMoniker": "..\\Task3\\Task3.csproj",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\Tasks\\Task3\\Task3.csproj",
+              "RelativeToolTip": "..\\Task3\\Task3.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-20T19:16:10.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IFax.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\Tasks\\Task2\\IFax.cs",
+              "RelativeDocumentMoniker": "IFax.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\Tasks\\Task2\\IFax.cs",
+              "RelativeToolTip": "IFax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T18:26:57.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SecurePrinter.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\Tasks\\Task2\\SecurePrinter.cs",
+              "RelativeDocumentMoniker": "SecurePrinter.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\Tasks\\Task2\\SecurePrinter.cs",
+              "RelativeToolTip": "SecurePrinter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T17:21:55.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IMaintenance.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\Tasks\\Task2\\IMaintenance.cs",
+              "RelativeDocumentMoniker": "IMaintenance.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\Tasks\\Task2\\IMaintenance.cs",
+              "RelativeToolTip": "IMaintenance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T00:46:38.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IScanner.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\Tasks\\Task2\\IScanner.cs",
+              "RelativeDocumentMoniker": "IScanner.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\Tasks\\Task2\\IScanner.cs",
+              "RelativeToolTip": "IScanner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T18:26:19.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ServiceMachine.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\Tasks\\Task2\\ServiceMachine.cs",
+              "RelativeDocumentMoniker": "ServiceMachine.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\Tasks\\Task2\\ServiceMachine.cs",
+              "RelativeToolTip": "ServiceMachine.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T00:47:39.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Copier.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\Tasks\\Task2\\Copier.cs",
+              "RelativeDocumentMoniker": "Copier.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\Tasks\\Task2\\Copier.cs",
+              "RelativeToolTip": "Copier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T17:37:40.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SimplPrinter.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\Tasks\\Task2\\SimplPrinter.cs",
+              "RelativeDocumentMoniker": "SimplPrinter.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\Tasks\\Task2\\SimplPrinter.cs",
+              "RelativeToolTip": "SimplPrinter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T17:31:33.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IDevice.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\Tasks\\Task2\\IDevice.cs",
+              "RelativeDocumentMoniker": "IDevice.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\Tasks\\Task2\\IDevice.cs",
+              "RelativeToolTip": "IDevice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T00:44:49.781Z"
             }
           ]
         }

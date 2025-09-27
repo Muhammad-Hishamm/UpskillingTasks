@@ -1,12 +1,71 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\Tasks\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7801A06-5A1D-4585-A8E9-E9FDF9655846}|Task4\\Task4.csproj|c:\\users\\muham\\onedrive\\desktop\\upskillingtasks\\tasks\\task4\\evennumbercollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7801A06-5A1D-4585-A8E9-E9FDF9655846}|Task4\\Task4.csproj|solutionrelative:task4\\evennumbercollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7801A06-5A1D-4585-A8E9-E9FDF9655846}|Task4\\Task4.csproj|c:\\users\\muham\\onedrive\\desktop\\upskillingtasks\\tasks\\task4\\mystringcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7801A06-5A1D-4585-A8E9-E9FDF9655846}|Task4\\Task4.csproj|solutionrelative:task4\\mystringcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7801A06-5A1D-4585-A8E9-E9FDF9655846}|Task4\\Task4.csproj|c:\\users\\muham\\onedrive\\desktop\\upskillingtasks\\tasks\\task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7801A06-5A1D-4585-A8E9-E9FDF9655846}|Task4\\Task4.csproj|solutionrelative:task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EvenNumberCollection.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\Tasks\\Task4\\EvenNumberCollection.cs",
+              "RelativeDocumentMoniker": "Task4\\EvenNumberCollection.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\Tasks\\Task4\\EvenNumberCollection.cs",
+              "RelativeToolTip": "Task4\\EvenNumberCollection.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwC8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T15:49:28.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyStringCollection.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\Tasks\\Task4\\MyStringCollection.cs",
+              "RelativeDocumentMoniker": "Task4\\MyStringCollection.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\Tasks\\Task4\\MyStringCollection.cs",
+              "RelativeToolTip": "Task4\\MyStringCollection.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T13:44:04.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\Tasks\\Task4\\Program.cs",
+              "RelativeDocumentMoniker": "Task4\\Program.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\Tasks\\Task4\\Program.cs",
+              "RelativeToolTip": "Task4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T13:41:49.683Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
