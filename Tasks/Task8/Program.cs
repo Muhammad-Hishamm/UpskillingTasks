@@ -1,13 +1,12 @@
 ﻿using Microsoft.Data.SqlClient;
 using System;
-using static System.Net.Mime.MediaTypeNames;
-using static System.Runtime.InteropServices.JavaScript.JSType;
+using System.Collections.Generic;
 
 namespace Task8
 {
     internal class Program
     {
-        public static void get(string sqlQuery, SqlConnection sqlConnection)
+        public static void Get(string sqlQuery, SqlConnection sqlConnection)
         {
             SqlCommand sqlCommand = new SqlCommand(sqlQuery, sqlConnection);
             try
@@ -16,8 +15,7 @@ namespace Task8
                 SqlDataReader sqlDataReader = sqlCommand.ExecuteReader();
                 while (sqlDataReader.Read())
                 {
-                    // int id = (int)sqlDataReader["ID"];
-                    Console.WriteLine($"Emp ID: {sqlDataReader["ID"]}, Emp Name: {sqlDataReader["Name"]},Emp Name: {sqlDataReader["Department"]}");
+                    Console.WriteLine($"Emp ID: {sqlDataReader["ID"]}, Name: {sqlDataReader["Name"]}, Department: {sqlDataReader["Department"]}");
                 }
                 sqlDataReader.Close();
             }
@@ -31,19 +29,22 @@ namespace Task8
                 {
                     sqlConnection.Close();
                 }
-
             }
         }
 
-        public static void Add(string sqlQuery, SqlConnection sqlConnection)
+        public static void Operation(string sqlQuery, SqlConnection sqlConnection, Dictionary<string, object> parameters)
         {
             SqlCommand sqlCommand = new SqlCommand(sqlQuery, sqlConnection);
+            foreach (var param in parameters)
+            {
+                sqlCommand.Parameters.AddWithValue(param.Key, param.Value);
+            }
 
             try
             {
                 sqlConnection.Open();
-                SqlDataReader sqlDataReader = sqlCommand.ExecuteReader();
-                sqlDataReader.Close();
+                int rowsAffected = sqlCommand.ExecuteNonQuery();
+                Console.WriteLine($"{rowsAffected} row(s) affected.");
             }
             catch (Exception ex)
             {
@@ -55,82 +56,53 @@ namespace Task8
                 {
                     sqlConnection.Close();
                 }
-
             }
         }
 
-        public static void update(string sqlQuery, SqlConnection sqlConnection)
+        public static void Add(SqlConnection sqlConnection)
         {
-            SqlCommand sqlCommand = new SqlCommand(sqlQuery, sqlConnection);
-
-            try
+            string sqlQuery = "INSERT INTO Employees (Name, Age, Department) VALUES (@Name, @Age, @Department)";
+            var parameters = new Dictionary<string, object>
             {
-                sqlConnection.Open();
-                SqlDataReader sqlDataReader = sqlCommand.ExecuteReader();
-                sqlDataReader.Close();
-            }
-            catch (Exception ex)
-            {
-                Console.WriteLine($"An error occurred: {ex.Message}");
-            }
-            finally
-            {
-                if (sqlConnection.State == System.Data.ConnectionState.Open)
-                {
-                    sqlConnection.Close();
-                }
-
-            }
+                { "@Name", "Ahmed Hassan" },
+                { "@Age", 30 },
+                { "@Department", "Engineering" }
+            };
+            Operation(sqlQuery, sqlConnection, parameters);
         }
 
-        public static void delete (string sqlQuery, SqlConnection sqlConnection)
+        public static void Update(SqlConnection sqlConnection)
         {
-            SqlCommand sqlCommand = new SqlCommand(sqlQuery, sqlConnection);
+            string sqlQuery = "UPDATE Employees SET Department = @Department WHERE Age = @Age";
+            var parameters = new Dictionary<string, object>
+            {
+                { "@Department", "Marketing" },
+                { "@Age", 30 }
+            };
+            Operation(sqlQuery, sqlConnection, parameters);
+        }
 
-            try
+        public static void Delete(SqlConnection sqlConnection)
+        {
+            string sqlQuery = "DELETE FROM Employees WHERE Department = @Department";
+            var parameters = new Dictionary<string, object>
             {
-                sqlConnection.Open();
-                SqlDataReader sqlDataReader = sqlCommand.ExecuteReader();
-                sqlDataReader.Close();
-            }
-            catch (Exception ex)
-            {
-                Console.WriteLine($"An error occurred: {ex.Message}");
-            }
-            finally
-            {
-                if (sqlConnection.State == System.Data.ConnectionState.Open)
-                {
-                    sqlConnection.Close();
-                }
-
-            }
+                { "@Department", "Engineering" }
+            };
+            Operation(sqlQuery, sqlConnection, parameters);
         }
 
         static void Main(string[] args)
         {
             var connectionString = "Data Source=MUHAMMAD-HISHAM\\SQLEXPRESS;Initial Catalog=UniversityDB;Integrated Security=True;Connect Timeout=30;Encrypt=True;Trust Server Certificate=True;Application Intent=ReadWrite;Multi Subnet Failover=False";
-
             SqlConnection sqlConnection = new SqlConnection(connectionString);
 
-            ////Add
-            //string sqlQuery = "INSERT INTO Employees (Name, Age, Department) VALUES (N'Ahmed Hassan', 30, N'Engineering')";
-            //Add(sqlQuery, sqlConnection);
+            Add(sqlConnection);
+            Update(sqlConnection);
+            Delete(sqlConnection);
 
-
-            ////update
-            //sqlQuery = "UPDATE Employees SET Department = N'Marketing' WHERE Age = 30;";
-            //update(sqlQuery, sqlConnection);
-
-
-            //Delete
-            //sqlQuery = "DELETE FROM Employees WHERE Department = 'Engineering'";
-            //delete(sqlQuery, sqlConnection);
-
-
-            //get
-            // sqlQuery = "SELECT * FROM Employees";
-            //get(sqlQuery, sqlConnection);
+            string selectQuery = "SELECT * FROM Employees";
+            Get(selectQuery, sqlConnection);
         }
     }
 }
