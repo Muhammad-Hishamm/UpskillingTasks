@@ -7,6 +7,18 @@
       "RelativeMoniker": "D:0:0:{146BF3B1-9341-49BE-8E4F-C88EA104B532}|UniversityDbFirst\\UniversityDbFirst.csproj|solutionrelative:universitydbfirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{146BF3B1-9341-49BE-8E4F-C88EA104B532}|UniversityDbFirst\\UniversityDbFirst.csproj|c:\\users\\muham\\onedrive\\desktop\\upskillingtasks\\universitydbfirst\\universitydbfirst\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{146BF3B1-9341-49BE-8E4F-C88EA104B532}|UniversityDbFirst\\UniversityDbFirst.csproj|solutionrelative:universitydbfirst\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{146BF3B1-9341-49BE-8E4F-C88EA104B532}|UniversityDbFirst\\UniversityDbFirst.csproj|C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\UniversityDbFirst\\universitydbfirst\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{146BF3B1-9341-49BE-8E4F-C88EA104B532}|UniversityDbFirst\\UniversityDbFirst.csproj|solutionrelative:universitydbfirst\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{146BF3B1-9341-49BE-8E4F-C88EA104B532}|UniversityDbFirst\\UniversityDbFirst.csproj|C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\UniversityDbFirst\\universitydbfirst\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{146BF3B1-9341-49BE-8E4F-C88EA104B532}|UniversityDbFirst\\UniversityDbFirst.csproj|solutionrelative:universitydbfirst\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{146BF3B1-9341-49BE-8E4F-C88EA104B532}|UniversityDbFirst\\UniversityDbFirst.csproj|C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\UniversityDbFirst\\universitydbfirst\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{146BF3B1-9341-49BE-8E4F-C88EA104B532}|UniversityDbFirst\\UniversityDbFirst.csproj|solutionrelative:universitydbfirst\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,16 +27,8 @@
       "RelativeMoniker": "D:0:0:{146BF3B1-9341-49BE-8E4F-C88EA104B532}|UniversityDbFirst\\UniversityDbFirst.csproj|solutionrelative:universitydbfirst\\data\\universitydbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{146BF3B1-9341-49BE-8E4F-C88EA104B532}|UniversityDbFirst\\UniversityDbFirst.csproj|C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\UniversityDbFirst\\universitydbfirst\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{146BF3B1-9341-49BE-8E4F-C88EA104B532}|UniversityDbFirst\\UniversityDbFirst.csproj|solutionrelative:universitydbfirst\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{146BF3B1-9341-49BE-8E4F-C88EA104B532}|UniversityDbFirst\\UniversityDbFirst.csproj|C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\UniversityDbFirst\\universitydbfirst\\teachercourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{146BF3B1-9341-49BE-8E4F-C88EA104B532}|UniversityDbFirst\\UniversityDbFirst.csproj|solutionrelative:universitydbfirst\\teachercourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{146BF3B1-9341-49BE-8E4F-C88EA104B532}|UniversityDbFirst\\UniversityDbFirst.csproj|C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\UniversityDbFirst\\universitydbfirst\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{146BF3B1-9341-49BE-8E4F-C88EA104B532}|UniversityDbFirst\\UniversityDbFirst.csproj|solutionrelative:universitydbfirst\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{146BF3B1-9341-49BE-8E4F-C88EA104B532}|UniversityDbFirst\\UniversityDbFirst.csproj|C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\UniversityDbFirst\\universitydbfirst\\model2.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -46,11 +50,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\UniversityDbFirst\\UniversityDbFirst\\Student.cs",
+              "RelativeDocumentMoniker": "UniversityDbFirst\\Student.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\UniversityDbFirst\\UniversityDbFirst\\Student.cs",
+              "RelativeToolTip": "UniversityDbFirst\\Student.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T22:11:36.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Course.cs",
               "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\UniversityDbFirst\\UniversityDbFirst\\Course.cs",
               "RelativeDocumentMoniker": "UniversityDbFirst\\Course.cs",
@@ -63,7 +80,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "TeacherCourse.cs",
               "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\UniversityDbFirst\\UniversityDbFirst\\TeacherCourse.cs",
               "RelativeDocumentMoniker": "UniversityDbFirst\\TeacherCourse.cs",
@@ -76,20 +93,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Teacher.cs",
               "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\UniversityDbFirst\\UniversityDbFirst\\Teacher.cs",
               "RelativeDocumentMoniker": "UniversityDbFirst\\Teacher.cs",
               "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\UniversityDbFirst\\UniversityDbFirst\\Teacher.cs",
               "RelativeToolTip": "UniversityDbFirst\\Teacher.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAzwBAAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwBAAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-14T19:41:01.199Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Model2.Context.tt",
               "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\UniversityDbFirst\\UniversityDbFirst\\Model2.Context.tt",
               "RelativeDocumentMoniker": "UniversityDbFirst\\Model2.Context.tt",
@@ -102,7 +119,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "App.config",
               "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\UniversityDbFirst\\UniversityDbFirst\\App.config",
               "RelativeDocumentMoniker": "UniversityDbFirst\\App.config",
@@ -119,16 +136,29 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\UniversityDbFirst\\UniversityDbFirst\\Program.cs",
               "RelativeDocumentMoniker": "UniversityDbFirst\\Program.cs",
-              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\UniversityDbFirst\\UniversityDbFirst\\Program.cs*",
-              "RelativeToolTip": "UniversityDbFirst\\Program.cs*",
-              "ViewState": "AgIAAE8AAAAAAAAAAAAQwJQAAAANAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\UniversityDbFirst\\UniversityDbFirst\\Program.cs",
+              "RelativeToolTip": "UniversityDbFirst\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAWwGAAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-14T18:47:31.071Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\UniversityDbFirst\\UniversityDbFirst\\Department.cs",
+              "RelativeDocumentMoniker": "UniversityDbFirst\\Department.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\UniversityDbFirst\\UniversityDbFirst\\Department.cs",
+              "RelativeToolTip": "UniversityDbFirst\\Department.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T19:35:08.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "UniversityDbInitializer.cs",
               "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\UniversityDbFirst\\UniversityDbFirst\\Data\\UniversityDbInitializer.cs",
               "RelativeDocumentMoniker": "UniversityDbFirst\\Data\\UniversityDbInitializer.cs",
@@ -141,20 +171,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Department.cs",
-              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\UniversityDbFirst\\UniversityDbFirst\\Department.cs",
-              "RelativeDocumentMoniker": "UniversityDbFirst\\Department.cs",
-              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\UniversityDbFirst\\UniversityDbFirst\\Department.cs",
-              "RelativeToolTip": "UniversityDbFirst\\Department.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAxwBcAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T19:35:08.105Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Model2.edmx [Diagram1]",
               "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\UniversityDbFirst\\UniversityDbFirst\\Model2.edmx",
               "RelativeDocumentMoniker": "UniversityDbFirst\\Model2.edmx",
