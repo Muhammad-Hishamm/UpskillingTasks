@@ -7,20 +7,16 @@
       "RelativeMoniker": "D:0:0:{3E79B0BE-1DEE-4359-A84C-EE0E24F8ED6F}|BookAuthors\\BookAuthors.csproj|solutionrelative:bookauthors\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E79B0BE-1DEE-4359-A84C-EE0E24F8ED6F}|BookAuthors\\BookAuthors.csproj|c:\\users\\muham\\onedrive\\desktop\\upskillingtasks\\bookauthors\\bookauthors\\appinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E79B0BE-1DEE-4359-A84C-EE0E24F8ED6F}|BookAuthors\\BookAuthors.csproj|solutionrelative:bookauthors\\appinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3E79B0BE-1DEE-4359-A84C-EE0E24F8ED6F}|BookAuthors\\BookAuthors.csproj|c:\\users\\muham\\onedrive\\desktop\\upskillingtasks\\bookauthors\\bookauthors\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E79B0BE-1DEE-4359-A84C-EE0E24F8ED6F}|BookAuthors\\BookAuthors.csproj|solutionrelative:bookauthors\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E79B0BE-1DEE-4359-A84C-EE0E24F8ED6F}|BookAuthors\\BookAuthors.csproj|c:\\users\\muham\\onedrive\\desktop\\upskillingtasks\\bookauthors\\bookauthors\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E79B0BE-1DEE-4359-A84C-EE0E24F8ED6F}|BookAuthors\\BookAuthors.csproj|solutionrelative:bookauthors\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3E79B0BE-1DEE-4359-A84C-EE0E24F8ED6F}|BookAuthors\\BookAuthors.csproj|c:\\users\\muham\\onedrive\\desktop\\upskillingtasks\\bookauthors\\bookauthors\\appinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E79B0BE-1DEE-4359-A84C-EE0E24F8ED6F}|BookAuthors\\BookAuthors.csproj|solutionrelative:bookauthors\\appinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\BookAuthors\\BookAuthors\\Migrations\\20251018010308_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BookAuthors\\Migrations\\20251018010308_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3E79B0BE-1DEE-4359-A84C-EE0E24F8ED6F}|BookAuthors\\BookAuthors.csproj|c:\\users\\muham\\onedrive\\desktop\\upskillingtasks\\bookauthors\\bookauthors\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E79B0BE-1DEE-4359-A84C-EE0E24F8ED6F}|BookAuthors\\BookAuthors.csproj|solutionrelative:bookauthors\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\BookAuthors\\BookAuthors\\Migrations\\20251018010045_init1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,6 +29,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{3E79B0BE-1DEE-4359-A84C-EE0E24F8ED6F}|BookAuthors\\BookAuthors.csproj|c:\\users\\muham\\onedrive\\desktop\\upskillingtasks\\bookauthors\\bookauthors\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E79B0BE-1DEE-4359-A84C-EE0E24F8ED6F}|BookAuthors\\BookAuthors.csproj|solutionrelative:bookauthors\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E79B0BE-1DEE-4359-A84C-EE0E24F8ED6F}|BookAuthors\\BookAuthors.csproj|c:\\users\\muham\\onedrive\\desktop\\upskillingtasks\\bookauthors\\bookauthors\\migrations\\20251018010308_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E79B0BE-1DEE-4359-A84C-EE0E24F8ED6F}|BookAuthors\\BookAuthors.csproj|solutionrelative:bookauthors\\migrations\\20251018010308_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +46,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "AppInitializer.cs",
               "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\BookAuthors\\BookAuthors\\AppInitializer.cs",
               "RelativeDocumentMoniker": "BookAuthors\\AppInitializer.cs",
@@ -54,12 +54,11 @@
               "RelativeToolTip": "BookAuthors\\AppInitializer.cs",
               "ViewState": "AgIAAEYAAAAAAAAAAAAQwAwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-18T01:14:48.217Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-18T01:14:48.217Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "20251018010308_init.cs",
               "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\BookAuthors\\BookAuthors\\Migrations\\20251018010308_init.cs",
               "RelativeDocumentMoniker": "BookAuthors\\Migrations\\20251018010308_init.cs",
@@ -67,12 +66,11 @@
               "RelativeToolTip": "BookAuthors\\Migrations\\20251018010308_init.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-18T01:03:08.934Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-18T01:03:08.934Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "20251018010045_init1.cs",
               "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\BookAuthors\\BookAuthors\\Migrations\\20251018010045_init1.cs",
               "RelativeDocumentMoniker": "BookAuthors\\Migrations\\20251018010045_init1.cs",
@@ -80,25 +78,24 @@
               "RelativeToolTip": "BookAuthors\\Migrations\\20251018010045_init1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-18T01:00:45.353Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-18T01:00:45.353Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\BookAuthors\\BookAuthors\\AppDbContext.cs",
               "RelativeDocumentMoniker": "BookAuthors\\AppDbContext.cs",
               "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\BookAuthors\\BookAuthors\\AppDbContext.cs",
               "RelativeToolTip": "BookAuthors\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwA0AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-18T00:31:17.957Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\BookAuthors\\BookAuthors\\appsettings.json",
               "RelativeDocumentMoniker": "BookAuthors\\appsettings.json",
@@ -106,8 +103,7 @@
               "RelativeToolTip": "BookAuthors\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-18T00:24:44.277Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-18T00:24:44.277Z"
             },
             {
               "$type": "Document",
@@ -119,8 +115,7 @@
               "RelativeToolTip": "BookAuthors\\Models\\Author.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T23:56:11.713Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-17T23:56:11.713Z"
             },
             {
               "$type": "Document",
@@ -130,14 +125,14 @@
               "RelativeDocumentMoniker": "BookAuthors\\Program.cs",
               "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\BookAuthors\\BookAuthors\\Program.cs",
               "RelativeToolTip": "BookAuthors\\Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAuwBoAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-17T23:54:22.299Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "Book.cs",
               "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\UpskillingTasks\\BookAuthors\\BookAuthors\\Models\\Book.cs",
               "RelativeDocumentMoniker": "BookAuthors\\Models\\Book.cs",
@@ -145,8 +140,7 @@
               "RelativeToolTip": "BookAuthors\\Models\\Book.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T23:56:23.17Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-17T23:56:23.17Z"
             }
           ]
         }
