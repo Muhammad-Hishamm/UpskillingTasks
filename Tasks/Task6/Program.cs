@@ -1,50 +1,54 @@
-﻿namespace Task6
+﻿using System;
+using System.Collections.Generic;
+using System.Threading;
+
+namespace Task6
 {
     internal class Program
     {
-        //public static int searchString(string str,ref bool found)
-        //{
-        //    for (int i = 0; i < str.Length; i++)
-        //    {
-        //        if(found) return -1; // If already found in another thread, exit early
-        //        if (i < str.Length - 1 && str[i] == 'T' && str[i + 1] == 'o')
-        //        {
-        //            found = true;
-        //            return i;
-        //        }
-        //    }
-        //    return -1;
-        //}
+        public static int SearchString(string line, string keyword, CancellationToken token)
+        {
+            if (token.IsCancellationRequested) return -1;
+
+            int index = line.IndexOf(keyword, StringComparison.OrdinalIgnoreCase);
+            return index;
+        }
 
         static void Main(string[] args)
         {
+            List<string> lines = new List<string>
+            {
+                "Learning To Code Is Super Fun Now!",
+                "Programming Skills Grow Daily!",
+                "Students Love Creative To Projects"
+            };
 
-            //Task 6.1
-            //List<string> lines = new List<string>{ 
-            //                                       "Learning To Code Is Super Fun Now!",
-            //                                       "Programming Skills Grow  Daily!",
-            //                                       "Students Love Creative To Projects"
-            //                                     };
+            string keyword = "To";
+            CancellationTokenSource cts = new CancellationTokenSource();
+            Thread[] threads = new Thread[lines.Count];
 
-            //bool found = false;
-            //Thread[] threads = new Thread[lines.Count];
+            for (int i = 0; i < lines.Count; i++)
+            {
+                int index = i;
+                threads[i] = new Thread(() =>
+                {
+                    int result = SearchString(lines[index], keyword, cts.Token);
+                    if (result != -1)
+                    {
+                        Console.WriteLine($" Found in Line {index + 1}: {lines[index]}");
+                        cts.Cancel(); 
+                    }
+                });
+                threads[i].Start();
+            }
 
-            //for (int i = 0; i < lines.Count; i++)
-            //{
-            //    int index = i; 
-            //    threads[i] = new Thread(() =>
-            //    {
-            //        if (searchString(lines[index],ref found)!=-1)
-            //        {
-            //            Console.WriteLine($"Line {index + 1}: {lines[index]}");
-            //        }
-            //    });
-            //    //threads[i].IsBackground = true;
-            //    threads[i].Start();
-            //}
+            
+            foreach (var thread in threads)
+            {
+                thread.Join();
+            }
 
-
-            ProducerConsumer.main();
+            Console.WriteLine("Search completed.");
         }
     }
 }
